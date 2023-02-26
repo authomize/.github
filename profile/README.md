@@ -11,8 +11,8 @@ This is the offical GitHub page for Authomize. To learn more about our product, 
 
 What can you find here:
 
-* Remediation workflows for Identity Threat Detection and Response
+* Workflows to facilitate faster, more effective remediation with your security operations tools
 * Security research and tools to eliminate and detect identity-based attacks and improve your security posture
-* Connectors built by the ITDR community to extend your Authomize platform with its open platform capabitlites
+* Connectors built by the ITDR community to support an even broader collection of apps and services
 
 For any questions and/or feedback, please email us at open-itdr@authomize.com.
