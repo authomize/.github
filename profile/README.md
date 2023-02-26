@@ -7,7 +7,7 @@ Authomize is the leading Identity Threat Detection and Response (ITDR) platform 
 
 
 
-This is the offical GitHub page for Authomize. To learn more about our product, go to authomize.com.
+This is the offical GitHub page for Authomize. To learn more about our product, go to www.authomize.com.
 
 What can you find here:
 
