@@ -1,5 +1,7 @@
-<img src="https://github.com/authomize/Authomize-ITDR/blob/main/authomize.png" width="40" height="40" alt="Authomize"> 
+<img src="https://github.com/authomize/Authomize-ITDR/blob/main/authomize.png" width="80" height="80" alt="Authomize">
+
 # Authomize
+
 Authomize, the leading Identity Threat Detection and Response (ITDR) Platform, empowers organizations to enact identity-first security by detecting, investigating, and responding to identity and access threats. Customers use Authomize to protect their cloud environments from account takeovers, privilege escalations, and identity-based attacks. The platform provides unprecedented, unified visibility and granular control across IaaS, SaaS, and IAM infrastructure.   
 
 
@@ -13,3 +15,4 @@ What can you find here:
 * Connectors built by the ITDR community to support an even broader collection of apps and services
 
 For any questions and/or feedback, please email us at open-itdr@authomize.com.
+
