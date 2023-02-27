@@ -1,4 +1,5 @@
-<img src="https://github.com/authomize/Authomize-ITDR/blob/main/authomize.png" width="80" height="80" alt="Authomize">
+<img src="https://github.com/authomize/Authomize-ITDR/blob/main/OpenITDR-AuthomizeLogov2.png" alt="Authomize">
+
 
 # Authomize
 
